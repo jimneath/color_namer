@@ -1,7 +1,6 @@
 class ColorNamer::ColorNames
   def self.names # List taken from http://chir.ag/tech/download/ntc
     [
-      James-Neaths-MacBook-Pro:~/Projects/shoplove/lab/names(beta) ruby blackwhite.rb 
       ["FF0000", "Red", "Red"],
       ["35312C", "Acadia", "Brown"],
       ["75AA94", "Acapulco", "Green"],
